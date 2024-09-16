@@ -8,7 +8,7 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 - Administracion de redes
 - Bases de datos
 * * *
-### Proyectos trabajados
+### 📋 Proyectos trabajados
 - Blog Palworld
 - Minijuegos Quiz/Drop
 * * *
