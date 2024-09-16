@@ -1,3 +1,4 @@
 # Mucho gusto, soy Piero Jesus 
-===
-Conoceme
+
+You can find me:
+-LinkedIn (www.linkedin.com/in/piero-jesus-53aa02291)
