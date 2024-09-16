@@ -11,8 +11,11 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 ### 📋 Proyectos trabajados
 1. Blog Palworld
    - Un blog sobre el juego Palworld, en el que se adentra en detalles sobre su historia, tipos de pals que hay y mas informacion interesante
-   - Tecnologias usadas: HTML, CSS, JScript
+   - Tecnologias usadas: HTML, CSS y JS
+     
 2. Minijuegos Quiz/Drop
+   - Dos minijuegos, uno que es un quizz (5 preguntas) y un drop (5 niveles).
+   - Tecnologias usadas: HTML, CSS Y JS
 * * *
 ### 🚩 Puedes encontrarme en
 - [LinkedIn](https://www.linkedin.com/in/piero-jesus-53aa02291/)
