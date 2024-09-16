@@ -9,4 +9,4 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 - Bases de datos
 * * *
 ### 🚩 Puedes encontrarme en
-- [LinkedIn](www.linkedin.com/in/piero-jesus-53aa02291)
+- [LinkedIn](www.linkedin.com/in/piero-jesus-53aa02291/)
