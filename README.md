@@ -10,7 +10,7 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 * * *
 ### 📋 Proyectos trabajados
 Blog Palworld
---Messi
+- Messi
 Minijuegos Quiz/Drop
 * * *
 ### 🚩 Puedes encontrarme en
