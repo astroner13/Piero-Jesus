@@ -5,5 +5,5 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 ### 🚀 Habilidades Técnicas
 - 
 
-### Puedes encontrarme en
+### 🚩 Puedes encontrarme en
 - [LinkedIn](www.linkedin.com/in/piero-jesus-53aa02291)
