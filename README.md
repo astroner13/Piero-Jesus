@@ -18,8 +18,7 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
    - Tecnologias usadas: HTML, CSS Y JS
 * * *
 ### 💻 Centro de Estudio
-Estudiando en U-tad | Centro Universitario de Tecnología y Arte Digital. 
-![logo](https://github.com/user-attachments/assets/a461c47c-4d1c-4960-aa58-c7259724de3f "Ir a la U-tad")
+Estudiando en U-tad | Centro Universitario de Tecnología y Arte Digital. ![logo](https://github.com/user-attachments/assets/a461c47c-4d1c-4960-aa58-c7259724de3f "Ir a la U-tad")
 * * *
 ### 🚩 Puedes encontrarme en
 - [LinkedIn](https://www.linkedin.com/in/piero-jesus-53aa02291/)
