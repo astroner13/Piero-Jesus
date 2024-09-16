@@ -10,3 +10,4 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 * * *
 ### 🚩 Puedes encontrarme en
 - [LinkedIn](https://www.linkedin.com/in/piero-jesus-53aa02291/)
+- [Correo Electronico](pieroj@outlook.es)
