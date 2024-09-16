@@ -10,7 +10,8 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 * * *
 ### 📋 Proyectos trabajados
 1. Blog Palworld
-   - Messi
+   - Un blog sobre el juego Palworld, en el que se adentra en detalles sobre su historia, tipos de pals que hay y mas informacion interesante
+   - Tecnologias usadas: HTML, CSS, JScript
 2. Minijuegos Quiz/Drop
 * * *
 ### 🚩 Puedes encontrarme en
