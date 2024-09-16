@@ -17,6 +17,9 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
    - Dos minijuegos, uno que es un quizz (5 preguntas) y un drop (5 niveles).
    - Tecnologias usadas: HTML, CSS Y JS
 * * *
+### 💻 Centro de Estudio
+Estudiando en U-tad | Centro Universitario de Tecnología y Arte Digital
+* * *
 ### 🚩 Puedes encontrarme en
 - [LinkedIn](https://www.linkedin.com/in/piero-jesus-53aa02291/)
 - Correo Electronico: [pieroj@outlook.es](mailto:pieroj@outlook.es)
