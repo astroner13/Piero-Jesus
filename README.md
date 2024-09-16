@@ -9,9 +9,9 @@ Actualmente, estoy cursando el Grado Superior de Administración de Sistemas Inf
 - Bases de datos
 * * *
 ### 📋 Proyectos trabajados
-Blog Palworld
-- Messi
-Minijuegos Quiz/Drop
+1. Blog Palworld
+   - Messi
+2. Minijuegos Quiz/Drop
 * * *
 ### 🚩 Puedes encontrarme en
 - [LinkedIn](https://www.linkedin.com/in/piero-jesus-53aa02291/)
